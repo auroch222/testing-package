@@ -1,0 +1,19 @@
+{
+    "name": "polyloans/reminders",
+    "description": "This Package Is For Polyloans Reminder",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "irakli",
+            "email": "auroch222@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Polyloans\\Contact\\": "src/"
+        }
+    }
+}
